@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Card-Contacts/static/css/main.30341b3e.chunk.css",
+    "main.js": "/Card-Contacts/static/js/main.26c5f4c6.chunk.js",
+    "main.js.map": "/Card-Contacts/static/js/main.26c5f4c6.chunk.js.map",
+    "runtime-main.js": "/Card-Contacts/static/js/runtime-main.80f4459a.js",
+    "runtime-main.js.map": "/Card-Contacts/static/js/runtime-main.80f4459a.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Card-Contacts/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e3a08591.chunk.js": "/Card-Contacts/static/js/2.e3a08591.chunk.js",
+    "static/js/2.e3a08591.chunk.js.map": "/Card-Contacts/static/js/2.e3a08591.chunk.js.map",
+    "static/js/3.1c083ae5.chunk.js": "/Card-Contacts/static/js/3.1c083ae5.chunk.js",
+    "static/js/3.1c083ae5.chunk.js.map": "/Card-Contacts/static/js/3.1c083ae5.chunk.js.map",
+    "index.html": "/Card-Contacts/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Card-Contacts/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.30341b3e.chunk.css.map": "/Card-Contacts/static/css/main.30341b3e.chunk.css.map",
+    "static/js/2.e3a08591.chunk.js.LICENSE.txt": "/Card-Contacts/static/js/2.e3a08591.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Card-Contacts/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80f4459a.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e3a08591.chunk.js",
+    "static/css/main.30341b3e.chunk.css",
+    "static/js/main.26c5f4c6.chunk.js"
+  ]
+}
