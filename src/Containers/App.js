@@ -38,7 +38,7 @@ class App extends Component {
       return (
         <React.Fragment>
           <div className="tc">
-            <h1 className="f1">ROBOFRIENDS</h1>
+            <h1 className="f1">CARDCONTACTS</h1>
             <SearchBar searchChange={this.onSearchChange} />
             <Scroll>
               <ErrorBoundary>
