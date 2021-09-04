@@ -17,7 +17,7 @@ const App = () => {
       }).catch((err) => {
         console.log(err);
       });
-  })
+  },[])
 
   const onSearchChange = (event) => {
     setSearchfield(event.target.value);
